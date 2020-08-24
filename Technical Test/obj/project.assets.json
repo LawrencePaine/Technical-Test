@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -179,23 +179,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lpain\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Lawrence\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lpain\\Technical-Test\\Technical Test\\Technical Test.csproj",
+      "projectUniqueName": "C:\\Users\\Lawrence\\Documents\\GitHub\\Technical-Test\\Technical Test\\Technical Test.csproj",
       "projectName": "Technical Test",
-      "projectPath": "C:\\Users\\lpain\\Technical-Test\\Technical Test\\Technical Test.csproj",
-      "packagesPath": "C:\\Users\\lpain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lpain\\Technical-Test\\Technical Test\\obj\\",
+      "projectPath": "C:\\Users\\Lawrence\\Documents\\GitHub\\Technical-Test\\Technical Test\\Technical Test.csproj",
+      "packagesPath": "C:\\Users\\Lawrence\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lawrence\\Documents\\GitHub\\Technical-Test\\Technical Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lpain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lawrence\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -237,7 +239,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
