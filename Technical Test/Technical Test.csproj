@@ -5,4 +5,9 @@
     <RootNamespace>Technical_Test</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Class2.cs" />
+  </ItemGroup>
+
 </Project>
