@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lawrence\\Documents\\GitHub\\Technical-Test\\Technical Test\\Technical Test.csproj": {}
+    "C:\\Users\\lpain\\Technical-Test\\Technical Test\\Technical Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lawrence\\Documents\\GitHub\\Technical-Test\\Technical Test\\Technical Test.csproj": {
+    "C:\\Users\\lpain\\Technical-Test\\Technical Test\\Technical Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lawrence\\Documents\\GitHub\\Technical-Test\\Technical Test\\Technical Test.csproj",
+        "projectUniqueName": "C:\\Users\\lpain\\Technical-Test\\Technical Test\\Technical Test.csproj",
         "projectName": "Technical Test",
-        "projectPath": "C:\\Users\\Lawrence\\Documents\\GitHub\\Technical-Test\\Technical Test\\Technical Test.csproj",
-        "packagesPath": "C:\\Users\\Lawrence\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lawrence\\Documents\\GitHub\\Technical-Test\\Technical Test\\obj\\",
+        "projectPath": "C:\\Users\\lpain\\Technical-Test\\Technical Test\\Technical Test.csproj",
+        "packagesPath": "C:\\Users\\lpain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lpain\\Technical-Test\\Technical Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lawrence\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lpain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -60,7 +59,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
